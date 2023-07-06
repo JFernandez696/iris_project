@@ -1,0 +1,6 @@
+1.- Instalar VCS & Python
+2.- Para instalar las librerias, se tiene que configurar las varaibles de entorno de Python y los Scripts. buscar el nombre de las carpetas donde se encuntra IDEL python y leugo en propiedas para los : 
+a---> C:\Users\Julio Fernandez\AppData\Local\Programs\Python\Python311\
+b---> C:\Users\Julio Fernandez\AppData\Local\Programs\Python\Python311\Scripts
+
+Configurar las nuevas variables de entorno.
